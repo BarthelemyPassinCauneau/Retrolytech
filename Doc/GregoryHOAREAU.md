@@ -2,5 +2,5 @@
 
 * Séances du 20 décembre
 
-Début du projet, j'ai fait des recheche pour voir quel matériel serait utile et pour voir quels jeux nous pourrions coder 
+Début du projet, j'ai fait des recheches pour voir quel matériel serait utile et pour voir quels jeux nous pourrions coder 
 pour la borne d'arcade.

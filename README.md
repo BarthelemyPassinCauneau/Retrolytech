@@ -6,4 +6,4 @@ Ce projet est réalisé dans le cadre de la formation de prépa intégrée de Po
 Une borne d'arcade crée avec Raspberry Pi, par Grégory HOAREAU et Barthélemy PASSIN-CAUNEAU
 
 # Matériel
-Nous allons utiliser : Une Raspberry Pi, un écran, etc.
+Nous allons utiliser : Une Raspberry Pi, un écran, des boutons et joysticks.

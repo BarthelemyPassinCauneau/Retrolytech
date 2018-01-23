@@ -11,4 +11,9 @@ Début de la programmation d'un pong
 
 * Séance du 19 janvier
 
+(Fin du codage du Pong durant l'interséances)
+Début du codage du menu de départ de la borne
 
+* Séance du 23 janvier
+
+Présentation du projet

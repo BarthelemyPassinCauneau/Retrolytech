@@ -7,3 +7,5 @@ J'ai installé Processing sur la Raspberry Pi, ainsi que cherché le matériel n
 Nous avons reçu notre matériel, j'ai donc cherché comment utiliser et brancher le matériel.
 #### 23 Janvier 2018
 Nous avons fait la présentation de notre projet, ainsi qu'une réparation de ma Raspberry qui était tombée en panne. De plus nous avons discuté de la forme de notre borne d'arcade, ainsi que de la possibilité de commander un nouveal écran.
+#### 6 Février 2018
+J'ai continué à chercher un OS permettant d'installer Processing et Antimicro, sans succès. Nous avons fait une liste des jeux possibles à faire, ainsi que cherché un nouvel écran pour notre borne d'arcade.

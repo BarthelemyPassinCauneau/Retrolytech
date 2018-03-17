@@ -12,3 +12,6 @@ J'ai continué à chercher un OS permettant d'installer Processing et Antimicro,
 #### 22 Février 2018
 J'ai enfin réussi à trouver un OS sur la Raspberry capable de faire tourner Antimicro et Processing. Puisque Grégory avait déja codé un pong de son côté, nous avons pu lancer notre premier jeu sur notre borne d'arcade.
 Nous avons également décidé la liste précise des jeux que nous allons faire, ainsi que commandé un écran.
+#### 15 Mars 2018
+Grégory et moi avons commencé la programmation du labyrinthe : 
+Nous avons décidé de nous répartir les tâches (en attendant l'écran de notre borne d'arcade), je m'occupe de créer les labyrinthes et Grégory s'occupe du code.

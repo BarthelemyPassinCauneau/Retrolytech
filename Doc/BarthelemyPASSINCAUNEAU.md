@@ -15,3 +15,5 @@ Nous avons également décidé la liste précise des jeux que nous allons faire,
 #### 15 Mars 2018
 Grégory et moi avons commencé la programmation du labyrinthe : 
 Nous avons décidé de nous répartir les tâches (en attendant l'écran de notre borne d'arcade), je m'occupe de créer les labyrinthes et Grégory s'occupe du code.
+#### 27 Mars 2018
+Après notre passage à l'oral, j'ai continué à coder le programme permettant de construire les labyrinthes pour notre jeu MazeForMates.

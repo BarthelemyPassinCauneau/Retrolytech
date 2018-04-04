@@ -17,3 +17,15 @@ Début du codage du menu de départ de la borne
 * Séance du 23 janvier
 
 Présentation du projet
+
+* Séance du 6 février
+
+Fin codage du Menu
+
+* Séance du 22 février
+
+Réflexion sur les Jeux à intégrer dans la borne d'arcade
+
+* Séance du 15 Mars
+
+Début codage du jeux de labyrinthe

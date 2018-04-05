@@ -17,3 +17,5 @@ Grégory et moi avons commencé la programmation du labyrinthe :
 Nous avons décidé de nous répartir les tâches (en attendant l'écran de notre borne d'arcade), je m'occupe de créer les labyrinthes et Grégory s'occupe du code.
 #### 27 Mars 2018
 Après notre passage à l'oral, j'ai continué à coder le programme permettant de construire les labyrinthes pour notre jeu MazeForMates.
+#### 4 Avril 2018
+Nous avons reçu notre écran pour notre borne d'arcade. Etant donné que notre ancien écran n'aurait plus aucune utilité, je l'ai rendu. De plus, j'ai corrigé les problèmes d'affichages du jeu Pong sur notre nouvel écran et débeugé le jeu pour qu'il soit optimal. Ainsi, la version du jeu pour 2 joueurs ne prendra que quelques minutes...

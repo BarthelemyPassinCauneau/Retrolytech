@@ -19,3 +19,6 @@ Nous avons décidé de nous répartir les tâches (en attendant l'écran de notr
 Après notre passage à l'oral, j'ai continué à coder le programme permettant de construire les labyrinthes pour notre jeu MazeForMates.
 #### 4 Avril 2018
 Nous avons reçu notre écran pour notre borne d'arcade. Etant donné que notre ancien écran n'aurait plus aucune utilité, je l'ai rendu. De plus, j'ai corrigé les problèmes d'affichages du jeu Pong sur notre nouvel écran et débeugé le jeu pour qu'il soit optimal. Ainsi, la version du jeu pour 2 joueurs ne prendra que quelques minutes...
+#### 17 Avril 2018
+Aujourd'hui, nous avons discuté avec Mr Masson pour trouver une solution concernant la partie connectée de la borne. En effet Processing ne permet pas d'interargir avec le Bluetooth/Wifi. Une possiblité serait de faire tourner un programme externe en Java qui attende qu'un fichier apparaisse et l'envoie par Wifi ou Bluetooth.
+De plus j'ai commencé à créer la borne: j'ai fini de m'occuper de la planche qui accueillera les bouton/joysticks et presque fini le jeu du Pong pour 2 joueurs.

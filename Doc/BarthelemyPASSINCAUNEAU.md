@@ -23,3 +23,6 @@ Nous avons reçu notre écran pour notre borne d'arcade. Etant donné que notre 
 #### 17 Avril 2018
 Aujourd'hui, nous avons discuté avec Mr Masson pour trouver une solution concernant la partie connectée de la borne. En effet Processing ne permet pas d'interargir avec le Bluetooth/Wifi. Une possiblité serait de faire tourner un programme externe en Java qui attende qu'un fichier apparaisse et l'envoie par Wifi ou Bluetooth.
 De plus j'ai commencé à créer la borne: j'ai fini de m'occuper de la planche qui accueillera les bouton/joysticks et presque fini le jeu du Pong pour 2 joueurs.
+#### 2 Mai 2018
+J'ai profité des vacances pour aller découper les planches permettant de créer la borne d'arcade: ainsi il ne me reste qu'à faire les trous nécessaires (par exemple dans la planche qui va accueillir l'écran) pour passer à la peinture puis à l'assemblage.
+Aujourd'hui, j'ai fini de coder le Pong à 2 joueurs et me suis rendu compte d'un problème majeur: Processing ne peux pas gérer 2 touches qui sont appuyées en même temps. Par exemple si le joueur de gauche veut déplacer sa raquette, le joueur de droite doit attendre que son adversaire finisse son déplacement pour faire le sien. Je vais chercher une solution à se problème...

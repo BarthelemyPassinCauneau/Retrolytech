@@ -26,3 +26,6 @@ De plus j'ai commencé à créer la borne: j'ai fini de m'occuper de la planche 
 #### 2 Mai 2018
 J'ai profité des vacances pour aller découper les planches permettant de créer la borne d'arcade: ainsi il ne me reste qu'à faire les trous nécessaires (par exemple dans la planche qui va accueillir l'écran) pour passer à la peinture puis à l'assemblage.
 Aujourd'hui, j'ai fini de coder le Pong à 2 joueurs et me suis rendu compte d'un problème majeur: Processing ne peux pas gérer 2 touches qui sont appuyées en même temps. Par exemple si le joueur de gauche veut déplacer sa raquette, le joueur de droite doit attendre que son adversaire finisse son déplacement pour faire le sien. Je vais chercher une solution à se problème...
+#### 7 Mai 2018
+J'ai trouvé un moyen pour pouvoir faire fonctionner les 2 joysticks en même temps: ainsi le Pong pour 2 joueurs est jouable (il reste encore quelques bugs à résoudre) et donc un problème important a été réglé.
+En ce qui concerne la borne, avant de couper le cadre pour l'écran je me suis rendu compte que les dimensions indiquées sur le carton ne correspondaient pas à la dimension de l'écran mais à la dimension écran+pied, ainsi je vais cette semaine raccourcir cette planche ainsi que toutes les autres adjacentes pour au final avoir une borne plus petite.

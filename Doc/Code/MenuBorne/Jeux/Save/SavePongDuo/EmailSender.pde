@@ -18,7 +18,7 @@ public class EmailSender{
          
     //ouverture d'une session. la session gére les informations de configuration (nom d'utilisateur, mot de passe, hôte) nécessaires pour utiliser les fonctionnalités de JavaMail
     Properties props= new Properties();
-    props.setProperty("mail.from", "Retrolytech@gmail.com"); // @ expediteur
+    props.setProperty("mail.from", **insert sender's mail address**); // @ expediteur
     
     props.put("mail.smtp.host", SMTP_HOST_NAME);
     props.put("mail.smtp.auth", "true");
@@ -33,7 +33,7 @@ public class EmailSender{
     Session session = Session.getDefaultInstance(props, new javax.mail.Authenticator() {
         protected PasswordAuthentication getPasswordAuthentication(){
         return new PasswordAuthentication( **insert sender's mail address**, **put password link to the mail**);
-        }                                 //addresse mail          mot de passe 
+        }                                 
     });
      
     //Le message

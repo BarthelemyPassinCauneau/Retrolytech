@@ -84,5 +84,6 @@ void save(){
   try{
     Runtime.getRuntime().exec("/home/user/Bureau/ProjetArduino/Borne/Menu_Borne/Jeux/Save/SavePongDuo/application.linux64/SavePongDuo");
   }catch(Exception e) {System.err.println(e);}
+  //modifer les chemins de "saveStrings" et "exec" selon le chemin menant au dossier "Menu_Borne"
   
 }

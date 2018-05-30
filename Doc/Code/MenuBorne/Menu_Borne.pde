@@ -23,8 +23,6 @@ void setup(){
   allGames.add(pongDuo);
   allGames.add(maze);
   
-  
-  //remplissageGrille(allGames);
 }//Fin setup
 
 
